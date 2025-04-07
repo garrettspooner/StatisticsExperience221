@@ -1,4 +1,4 @@
-# 221 Statistics Experience Spooner
+# Garrett Spooner: 221 Statistics Experience -- TidyTuesday
 
 <img width="698" alt="Screenshot 2025-04-07 at 13 21 41" src="https://github.com/user-attachments/assets/52ec5e15-6328-4f64-9510-73b8551dc058" />
 
